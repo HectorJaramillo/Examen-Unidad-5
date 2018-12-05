@@ -1,0 +1,14 @@
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\bin\Debug\RADIX.exe.config
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\bin\Debug\RADIX.exe
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\bin\Debug\RADIX.pdb
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\obj\Debug\RADIX.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\obj\Debug\RADIX.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\obj\Debug\RADIX.exe
+C:\Users\DELL CORE i5\source\repos\RADIX\RADIX\obj\Debug\RADIX.pdb
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\bin\Debug\RADIX.exe.config
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\bin\Debug\RADIX.exe
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\bin\Debug\RADIX.pdb
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\obj\Debug\RADIX.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\obj\Debug\RADIX.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\obj\Debug\RADIX.exe
+C:\Users\DELL CORE i5\Desktop\RADIX\RADIX\obj\Debug\RADIX.pdb

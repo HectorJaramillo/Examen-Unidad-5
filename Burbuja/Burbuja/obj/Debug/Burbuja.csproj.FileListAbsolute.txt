@@ -1,0 +1,14 @@
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.csprojResolveAssemblyReference.cache
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+c:\users\dell core i5\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\obj\Debug\Burbuja.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\DELL CORE i5\Desktop\Burbuja\Burbuja\obj\Debug\Burbuja.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\bin\Debug\SHELLSORT.exe.config
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\bin\Debug\SHELLSORT.exe
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\bin\Debug\SHELLSORT.pdb
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\obj\Debug\SHELLSORT.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\obj\Debug\SHELLSORT.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\obj\Debug\SHELLSORT.exe
+C:\Users\DELL CORE i5\source\repos\SHELLSORT\SHELLSORT\obj\Debug\SHELLSORT.pdb
